@@ -1,0 +1,6 @@
+.cabeçalho__menu-hambuerguer {
+    width: 100px;
+    height: 24px;
+    background-image: url("../logo__ziggy.jpg");
+    display: inline-block;
+}
